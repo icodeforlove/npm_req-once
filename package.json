@@ -1,0 +1,21 @@
+{
+  "name": "req-once",
+  "version": "0.0.1",
+  "description": "requires the module only once, and globally caches the reference for the whole application for the specified module path",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icodeforlove/npm_req-once.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Chad Scira",
+    "email": "chadvscira@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.0.1"
+  }
+}
